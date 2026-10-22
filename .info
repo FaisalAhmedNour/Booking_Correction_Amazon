@@ -1,0 +1,14 @@
+{
+    "Name":"BOOKING Correction Amazon",
+    "id":"6ac7964cf34bc7c0f89bf56a",
+    "version":"2.0.0",
+    "type":"EXE",
+    "executable":"6ac7964cf34bc7c0f89bf56a.exe",
+    "requirements":[
+    	{
+        	"type":"File",
+        	"root":"Workers",
+        	"loc":["?p_id","6ac7964cf34bc7c0f89bf56a.exe"]
+    	}
+    ]
+}
